@@ -25,6 +25,9 @@ Dotenv
 ![Screenshot1](./images/Screenshot1.png)
 
 ## Links 
-Github 
-video walk through 
-https://youtu.be/d9Fm9pK9AIc
+Github repo
+https://github.com/zohamumtaz/E-commerce
+
+
+walk through video
+https://www.youtube.com/watch?v=d9Fm9pK9AIc
