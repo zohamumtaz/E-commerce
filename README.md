@@ -27,3 +27,4 @@ Dotenv
 ## Links 
 Github 
 video walk through 
+https://youtu.be/d9Fm9pK9AIc
